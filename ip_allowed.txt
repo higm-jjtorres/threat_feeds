@@ -1,4 +1,7 @@
+# Rapid7 Portal for InsightVM and InsightIDR.
 18.197.6.55
 3.124.127.106
+# (2/7/2022) (#1518 Problemas para acceder a pagina web de global.sagrado.edu) https://global.sagrado.edu
 23.227.38.32
+# (2/7/2022) (#1517 Problemas para acceder a pagina web de ATH Movil Business) https://athmovilbusiness.com/login
 100.24.190.126
