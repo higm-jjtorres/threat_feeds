@@ -5,4 +5,5 @@
 23.227.38.32
 # (2/7/2022) (#1517 Problemas para acceder a pagina web de ATH Movil Business) https://athmovilbusiness.com/login
 100.24.190.126
+# (2/8/2022) (#1507 Pagina de internet) https://eservices.baxter.com/csse1/logoff.html
 99.80.88.150
