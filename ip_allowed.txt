@@ -7,3 +7,4 @@
 100.24.190.126
 # (2/8/2022) (#1507 Pagina de internet) https://eservices.baxter.com/csse1/logoff.html
 99.80.88.150
+49.12.121.47
