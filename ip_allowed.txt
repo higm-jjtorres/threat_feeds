@@ -15,4 +15,5 @@
 95.216.163.111
 # (2/11/2022) (#1547 Solicitud Desbloqueo de Paginas) https://radiologyassistant.nl
 149.210.205.72
+# (2/14/2021) (#1576 Problemas para acceder a pagina de soporte "Webex" de metriq.) https://myelekta.webex.com
 170.72.18.7
