@@ -18,3 +18,4 @@
 # (2/14/2021) (#1576 Problemas para acceder a pagina de soporte "Webex" de metriq.) https://myelekta.webex.com
 170.72.18.7
 185.107.232.127
+77.32.222.69
