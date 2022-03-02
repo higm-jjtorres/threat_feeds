@@ -20,6 +20,6 @@
 # (2/17/2022) (#1611 Autoexpreso: Problemas en cambio de contrasena) r.autoexpresoapp.com & autoexpresoapp.com
 185.107.232.127
 77.32.222.69
-# (3/2/2022) (
+# (3/2/2022) (#1683 Firewall: Problema de acceso a https://www.prits.pr.gov/)
 75.2.70.75
 99.83.190.102
