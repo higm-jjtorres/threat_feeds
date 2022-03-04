@@ -23,7 +23,7 @@
 # (3/2/2022) (#1683 Firewall: Problema de acceso a https://www.prits.pr.gov/)
 75.2.70.75
 99.83.190.102
-# Inmediata
+# (3/4/2022) (#1713 Firewall: Problemas para acceder portal de Inmediata)
 207.120.33.40
 207.120.33.36
 207.120.33.44
