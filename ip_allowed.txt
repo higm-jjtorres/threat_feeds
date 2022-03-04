@@ -32,5 +32,6 @@
 207.120.33.7
 207.120.33.34
 207.120.33.43
-# Quick Assist
+# (3/4/2022) (#1712 Problemas para utilizar Microsoft Quick Assist)
 104.93.67.72
+# END
