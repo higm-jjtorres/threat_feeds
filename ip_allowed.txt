@@ -34,4 +34,6 @@
 207.120.33.43
 # (3/4/2022) (#1712 Problemas para utilizar Microsoft Quick Assist)
 104.93.67.72
+# GALENOS
+213.186.33.17
 # END
