@@ -38,4 +38,9 @@
 213.186.33.17
 # London Group
 158.69.76.69
+# https://resourcecenter.biomerieux.com
+13.249.74.3
+13.249.74.77
+13.249.74.75
+13.249.74.46
 # END
