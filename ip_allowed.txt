@@ -40,6 +40,7 @@
 158.69.76.69
 # https://resourcecenter.biomerieux.com
 34.249.53.247
+# fidm.eu1.gigya.com
 52.17.82.217
 52.30.9.119
 52.49.16.186
