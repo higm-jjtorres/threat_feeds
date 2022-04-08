@@ -40,6 +40,9 @@
 158.69.76.69
 # https://resourcecenter.biomerieux.com
 34.249.53.247
+# www.mybiomerieux.com
+34.243.170.215
+34.248.94.96
 # fidm.eu1.gigya.com
 52.17.82.217
 52.30.9.119
