@@ -36,14 +36,11 @@
 104.93.67.72
 # (3/14/2022) (#1781 URL Blocked: Hospital Presbitereano/Galenos)
 213.186.33.17
-# London Group
+# (3/29/2022) (#1887 URL Blocked: http://assessment.londoncg.com)
 158.69.76.69
-# https://resourcecenter.biomerieux.com
+# (4/7/2022) https://resourcecenter.biomerieux.com
 34.249.53.247
-# www.mybiomerieux.com
-34.243.170.215
-34.248.94.96
-# fidm.eu1.gigya.com
+# (4/7/2022) fidm.eu1.gigya.com
 52.17.82.217
 52.30.9.119
 52.49.16.186
@@ -52,4 +49,7 @@
 52.17.121.244
 54.229.120.124
 52.212.156.205
+# (4/8/2022) www.mybiomerieux.com
+34.243.170.215
+34.248.94.96
 # END
