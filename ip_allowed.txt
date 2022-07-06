@@ -58,6 +58,6 @@
 52.214.199.31
 # Philips
 185.233.55.64
-# JNNCN.ORG
+# (7/6/2022) (#2630 Firewall - URL Access Request (jnccn.org)) https://jnccn.org/
 52.31.25.12
 # END
