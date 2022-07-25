@@ -60,7 +60,7 @@
 185.233.55.64
 # (7/6/2022) (#2630 Firewall - URL Access Request (jnccn.org)) https://jnccn.org/
 52.31.25.12
-# Indeed
+# (7/25/2022) (#2804 Pagina Indee) https://secure.indeed.com/
 15.223.141.184
 3.98.181.152
 15.223.80.242
