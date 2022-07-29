@@ -62,4 +62,8 @@
 52.31.25.12
 # (7/29/2022) (#2849 Firewall - URL Access Request (https://www.atosmedical.com))
 84.19.147.135
+# cdc
+198.246.102.49
+198.246.106.49
+23.39.150.112
 # END
