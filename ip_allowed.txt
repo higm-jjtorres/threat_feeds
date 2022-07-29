@@ -60,6 +60,6 @@
 185.233.55.64
 # (7/6/2022) (#2630 Firewall - URL Access Request (jnccn.org)) https://jnccn.org/
 52.31.25.12
-# (7/29/2022) Atosmedical
+# (7/29/2022) (#2849 Firewall - URL Access Request (https://www.atosmedical.com))
 84.19.147.135
 # END
