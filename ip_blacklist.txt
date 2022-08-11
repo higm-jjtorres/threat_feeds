@@ -11,4 +11,6 @@
 45.130.99.202
 #(8/10/2022) IDS Alert "Apache.Log4j.Error.Log.Remote.Code.Execution"
 20.118.133.148
+# # (8/11/2022) VPN brute force
+20.223.147.228
 # END
