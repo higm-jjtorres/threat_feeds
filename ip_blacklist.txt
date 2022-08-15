@@ -15,4 +15,6 @@
 20.223.147.228
 # (8/11/2022) Fortigate AV Alert http://cpcr-pr.org
 107.180.50.181
+# (8/15/2022) VPN brute force
+20.10.8.101
 # END
