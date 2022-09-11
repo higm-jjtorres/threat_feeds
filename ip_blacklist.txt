@@ -17,4 +17,6 @@
 107.180.50.181
 # (8/15/2022) VPN brute force
 20.10.8.101
+# (9/10/2022) VPN login attempt with random usernames
+20.232.109.81
 # END
