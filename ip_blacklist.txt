@@ -19,4 +19,6 @@
 20.10.8.101
 # (9/10/2022) VPN login attempt with random usernames
 20.232.109.81
+# (9/13/2022) IDS Alert Mirai.Botnet
+18.189.61.4
 # END
