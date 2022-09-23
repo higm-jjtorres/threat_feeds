@@ -25,4 +25,7 @@
 151.106.38.211
 # (9/21/2022) VPN login attempt with admin username
 92.204.144.160
+# (9/21/2022) Fortigate A/V Alert (http://www.officedesignpr.com/product/Chair/images/services2.jpg)
+107.154.164.76
+107.154.157.76
 # END
