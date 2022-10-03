@@ -28,4 +28,6 @@
 # (9/23/2022) Fortigate A/V Alert (http://www.officedesignpr.com/product/Chair/images/services2.jpg)
 107.154.164.76
 107.154.157.76
+# (10/3/2022) VPN brute force
+157.90.243.219
 # END
