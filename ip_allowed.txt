@@ -67,7 +67,7 @@
 212.2.188.62
 # Metriq SSID
 20.98.92.235
-#
+# (10/7/2022) (#3515 pagina de certificacion) https://resourcecenter.biomerieux.com/login
 52.30.181.158
 52.31.157.92
 # END
