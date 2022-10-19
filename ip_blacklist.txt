@@ -32,4 +32,6 @@
 157.90.243.219
 # (10/3/2022) IDS Alert Dasan.GPON.Remote.Code.Execution
 97.127.51.98
+# (10/19/2022) VPN login attempt with random username
+92.204.146.5
 # END
