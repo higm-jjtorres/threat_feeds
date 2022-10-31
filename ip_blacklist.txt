@@ -36,4 +36,6 @@
 92.204.146.5
 # (10/26/2022)
 209.99.64.51
+# (10/31/2022) VPN login attempt with admin username
+147.78.47.228
 # END
