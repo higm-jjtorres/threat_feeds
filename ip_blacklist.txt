@@ -38,4 +38,6 @@
 209.99.64.51
 # (10/31/2022) VPN login attempt with admin username
 147.78.47.228
+# (11/7/2022) VPN login attempt from blocked cuntry (CHINA)
+113.140.29.12
 # END
