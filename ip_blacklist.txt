@@ -44,4 +44,6 @@
 152.89.198.55
 # (12/13/2022) VPN login attempt from blocked cuntry (Russia)
 62.204.41.173
+# (12/13/2022) VPN login attempt from blocked cuntry (USA)
+166.1.15.98
 # END
