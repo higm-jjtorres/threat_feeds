@@ -56,6 +56,8 @@
 170.150.237.99
 # (1/11/2023) IDS Alert "Apache.Log4j.Error.Log.Remote.Code.Execution"
 172.98.77.204
-# (1/17/2023) VPN login attempt from blocked cuntry (Australia)
+# (1/17/2023) VPN login attempt (Australia)
 170.64.160.99
+# (1/23/2023) VPN login attempt (United Kingdom)
+193.149.180.45
 # END
