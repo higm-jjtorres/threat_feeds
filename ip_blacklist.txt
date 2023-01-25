@@ -60,4 +60,6 @@
 170.64.160.99
 # (1/23/2023) VPN login attempt (United Kingdom)
 193.149.180.45
+# (1/25/2023) VPN login attempt from blocked cuntry (Netherlands)
+80.66.88.217
 # END
