@@ -63,8 +63,4 @@
 # (1/25/2023) VPN login attempt from blocked cuntry (Netherlands)
 80.66.88.217
 93.185.166.197
-# (1/27/2023) VPN login attempt from blocked cuntry (USA)
-67.143.208.23
-# (2/8/2023) VPN login attempt from blocked cuntry (USA)
-67.143.208.79
 # END
