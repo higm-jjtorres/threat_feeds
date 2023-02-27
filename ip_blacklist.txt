@@ -67,4 +67,6 @@
 87.251.67.9
 # (2/27/2023) VPN login attempt from blocked cuntry (Hong Kong)
 91.240.118.5
+# (2/27/2023) VPN login attempt from blocked cuntry (Sweden)
+195.246.120.139
 # END
