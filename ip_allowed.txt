@@ -74,6 +74,6 @@
 34.90.135.235
 # (11/14/2022) Ability Network
 104.237.43.224
-# 
+# (3/2/2023) (#4651 FW: Evaluación archivo pdf :cifrado) http://www.fasgo.org.ar/
 179.43.125.102
 # END
