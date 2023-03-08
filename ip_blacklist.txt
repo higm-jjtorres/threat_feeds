@@ -84,4 +84,7 @@
 91.240.118.5
 # (3/6/2023) VPN login attempt from blocked cuntry (Brazil)
 83.171.225.134
+# (3/8/2023) VPN login attempt (USA)
+193.233.228.49
+200.10.35.122
 # END
