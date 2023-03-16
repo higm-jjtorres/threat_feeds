@@ -89,4 +89,6 @@
 200.10.35.122
 # (3/14/2023) VPN login attempt from blocked cuntry (Hong Kong)
 91.240.118.4
+# (3/16/2023) VPN login attempt from blocked cuntry (Panama)
+185.190.24.11
 # END
