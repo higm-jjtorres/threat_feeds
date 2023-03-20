@@ -95,4 +95,6 @@
 88.214.24.74
 # (3/20/2023) VPN login attempt from blocked cuntry (Ukraine)
 77.83.36.200
+# (3/20/2023) VPN login attempt from blocked cuntry (Germany)
+151.236.17.73
 # END
