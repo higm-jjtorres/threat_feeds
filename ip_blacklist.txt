@@ -103,4 +103,6 @@
 92.255.57.203
 # (3/21/2023) VPN login attempt from blocked cuntry (Bulgaria)
 78.128.112.202
+# (3/21/2023) VPN login attempt from blocked cuntry (Argentina)
+45.227.252.237
 # END
