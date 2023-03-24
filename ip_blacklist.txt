@@ -109,4 +109,6 @@
 194.165.17.21
 # (3/24/2023) VPN login attempt from blocked cuntry (Argentina)
 45.227.252.236
+# (3/24/2023) VPN login attempt from blocked cuntry (Italy)
+83.136.106.160
 # END
