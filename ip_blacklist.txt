@@ -114,4 +114,6 @@
 # (3/30/2023) IDS Alert MikroTik.RouterOS.Arbitrary.File.Read
 23.94.36.4
 70.45.99.125
+# (4/3/2023) VPN login attempt from blocked cuntry (Netherlands)
+45.95.146.114
 # END
