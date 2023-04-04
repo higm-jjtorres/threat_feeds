@@ -118,4 +118,6 @@
 45.95.146.114
 # (4/3/2023) VPN login attempt from blocked cuntry (Germany)
 136.243.113.70
+# (4/4/2023) VPN login attempt from blocked cuntry (US)
+143.110.146.178
 # END
