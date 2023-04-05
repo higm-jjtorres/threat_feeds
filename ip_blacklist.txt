@@ -120,4 +120,6 @@
 136.243.113.70
 # (4/4/2023) VPN login attempt from blocked cuntry (US)
 143.110.146.178
+# (4/5/2023) VPN login attempt from blocked cuntry (Vietnam)
+115.79.141.79
 # END
