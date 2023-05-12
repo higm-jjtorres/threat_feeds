@@ -76,4 +76,6 @@
 104.237.43.224
 # (3/2/2023) (#4651 FW: Evaluación archivo pdf :cifrado) http://www.fasgo.org.ar/
 179.43.125.102
+# (5/12/2023) (#5160 acceso a página web de Empleo)
+35.206.167.9
 # END
