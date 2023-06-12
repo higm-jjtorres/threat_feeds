@@ -128,4 +128,6 @@
 147.78.47.243
 # (5/3/2023) VPN login attempt
 91.213.50.78
+# (6/12/2023) VPN login attempt brute force
+185.224.128.110
 # END
