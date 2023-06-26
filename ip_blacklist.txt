@@ -131,4 +131,7 @@
 # (6/12/2023) VPN login attempt brute force
 185.224.128.110
 185.224.128.129
+# (6/26/2023) IDS Alert - Mirai.Botnet
+104.63.236.87
+96.69.226.181
 # END
