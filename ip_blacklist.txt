@@ -134,4 +134,6 @@
 # (6/26/2023) IDS Alert - Mirai.Botnet
 104.63.236.87
 96.69.226.181
+# (10/5/2023) VPN login attempt
+188.161.28.204
 # END
