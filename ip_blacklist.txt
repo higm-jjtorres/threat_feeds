@@ -224,4 +224,6 @@
 # (5/17/2024) padlet.com
 172.64.145.18
 104.18.42.238
+# (5/28/2024) VPN login attempt - Brute Force
+5.42.80.235
 # END
