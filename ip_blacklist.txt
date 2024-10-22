@@ -373,4 +373,6 @@
 80.94.95.16
 # (10/10/2024) VPN login attempt - Brute Force
 80.94.95.115
+# (10/22/2024) VPN login attempt - Brute Force
+80.94.95.154
 # END
