@@ -402,4 +402,6 @@
 95.143.191.24
 # (12/19/2024) VPN login attempt - Brute Force
 185.81.145.74
+# (1/3/2025) R7 OUTBOUND firewall traffic alert (tracked in Blacklisted by Talos)
+185.233.100.23
 # END
