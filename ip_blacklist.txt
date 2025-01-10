@@ -408,4 +408,6 @@
 5.181.86.109
 # (1/9/2025) VPN login attempt - Brute Force
 185.190.24.178
+# (1/10/2025) VPN login attempt - Brute Force
+5.181.86.63
 # END
