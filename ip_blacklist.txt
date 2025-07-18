@@ -575,4 +575,6 @@
 195.82.147.130
 # (7/18/2025) VPN login attempt - Brute Force
 45.146.130.108
+# (7/18/2025) Gh0stRat C2 List
+192.235.96.137
 # END
