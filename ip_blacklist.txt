@@ -588,4 +588,6 @@
 94.26.105.7
 # (8/12/2025) VPN login attempt - Brute Force
 91.92.34.7
+# (8/13/2025) VPN login attempt - Brute Force
+77.47.155.3
 # END
