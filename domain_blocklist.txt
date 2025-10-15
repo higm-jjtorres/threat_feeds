@@ -1,2 +1,4 @@
 # Domain Blocklist
-# 
+# (10/15/2025) Phishing email link
+pixel-origin.mathtag.com
+qualicalsrl-my.sharepoint.com
